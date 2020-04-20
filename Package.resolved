@@ -21,11 +21,11 @@
       },
       {
         "package": "RxSwift",
-        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "repositoryURL": "https://github.com/giovanepossebon/RxSwift.git",
         "state": {
           "branch": null,
-          "revision": "cce95dd704bc08cd3d69c087a05a6fc3118e2722",
-          "version": "4.5.0"
+          "revision": "cfd3819674a419a52d491de04c332cb91c3284ab",
+          "version": "4.5.1"
         }
       }
     ]

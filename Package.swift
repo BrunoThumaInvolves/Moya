@@ -10,7 +10,7 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "4.1.0")),
         .package(url: "https://github.com/antitypical/Result.git", .upToNextMajor(from: "4.1.0")),
-        .package(url: "https://github.com/ReactiveX/RxSwift.git", from: "4.0.0")
+        .package(url: "https://github.com/giovanepossebon/RxSwift.git", .exact("4.5.1"))
     ],
     targets: [
          .target(
